@@ -1,0 +1,20 @@
+.form-table-color { width: 300px !important; }
+.form-table-color td, .form-table-color th { vertical-align: middle; }
+.form-table-color td { width: 90px; }
+.form-table-color th { width: 100px; }
+.form-table-color .color-input { width: 70px; margin-left: 5px; }
+
+.colorpickerSelect {
+	position: relative;
+	width: 36px;
+	height: 36px;
+	background: url(../images/select2.png);
+}
+.colorpickerSelect div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(../images/select2.png) center;
+}
