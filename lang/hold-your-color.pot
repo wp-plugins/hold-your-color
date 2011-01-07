@@ -1,0 +1,86 @@
+# Copyright (C) 2010 Hold your color
+# This file is distributed under the same license as the Hold your color package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hold your color 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hold-your-color\n"
+"POT-Creation-Date: 2011-01-07 11:56:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: register.php:8 register.php:25 register.php:33
+msgid "Colors"
+msgstr ""
+
+#: register.php:64
+msgid "No Colors"
+msgstr ""
+
+#: widget.php:40
+msgid "Show the custom color tags in your sidebar"
+msgstr ""
+
+#: widget.php:114
+msgid "Title:"
+msgstr ""
+
+#: widget.php:120
+msgid "Show as dropdown"
+msgstr ""
+
+#: widget.php:125
+msgid "Hide empty"
+msgstr ""
+
+#: widget.php:129
+msgid "Colors to show:"
+msgstr ""
+
+#: hold-your-color.php:57
+msgid "No colors"
+msgstr ""
+
+#: options.php:16
+msgid "Hold your color Settings"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Hold your color 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: options.php:16 options.php:46
+msgid "Hold your color"
+msgstr ""
+
+#: options.php:62
+msgid "To add more colors, click <a href=\"%s\">here</a>."
+msgstr ""
+
+#: options.php:64
+msgid "For each color, enter the hexadecimal code for the color widget:"
+msgstr ""
+
+#: options.php:77
+msgid "Save Changes"
+msgstr ""
+
+#: options.php:80
+msgid "There are no colors yet. Click <a href=\"%s\">here</a> to add somes."
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Hold your color 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Hold your color 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.lmenu.fr"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add custom color tag to your posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Laurent Menu"
+msgstr ""
