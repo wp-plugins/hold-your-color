@@ -62,7 +62,7 @@ Parameters:
 `$separator`: separator between each color
 `$after`: text to show after listing
 
-If you don't whant to show directly the colors and keep its in a php variable, use this function :
+If you don't want to show directly the colors and keep its in a php variable, use this function :
 `<?php get_the_colors($post_ID = null); ?>`
 It will return an object array. Refer to this function to see who to use id : http://codex.wordpress.org/Function_Reference/wp_get_post_terms
 
